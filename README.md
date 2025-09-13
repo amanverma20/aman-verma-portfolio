@@ -4,6 +4,12 @@ A modern, responsive, and interactive portfolio website built with React, TypeSc
 
 ![Portfolio Preview](./public/portfolio-screenshot.png)
 
+## 🚀 Live Demo
+
+**[View Live Portfolio](https://aman-verma-portfolio.vercel.app/)** 🎉
+
+Your portfolio is live and ready to showcase your work!
+
 ## ✨ Features
 
 - **🎨 Modern Design**: Clean, professional, and responsive design with smooth animations
@@ -34,11 +40,6 @@ A modern, responsive, and interactive portfolio website built with React, TypeSc
 ### Email Service
 - **EmailJS** - Client-side email service integration
 
-## 🚀 Live Demo
-
-**[View Live Portfolio](https://aman-verma-portfolio.vercel.app/)** 🎉
-
-Your portfolio is live and ready to showcase your work!
 
 ## 📦 Installation & Setup
 
