@@ -2,7 +2,7 @@
 
 A modern, responsive, and interactive portfolio website built with React, TypeScript, and Tailwind CSS. This portfolio showcases my skills, projects, and professional experience as a Software Developer.
 
-![Portfolio Preview](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800)
+![Portfolio Preview]("C:\Users\amanv\OneDrive\Pictures\Screenshots\Screenshot 2025-09-13 174648.png")
 
 ## ✨ Features
 
